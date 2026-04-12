@@ -110,7 +110,7 @@ const beforeAfterPairs = [
   {
     before: "/images/before2.png",
     after: "/images/after2.jpg",
-    title: "Элегантный"
+    title: "Студийный портрет"
   }
 ]
 

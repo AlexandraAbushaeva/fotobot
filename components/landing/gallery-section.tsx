@@ -39,6 +39,10 @@ const galleryImages = [
   {
     src: "/images/photo7.jpg",
     style: "street style"
+  },
+  {
+    src: "/images/photo8.jpg",
+    style: "Элегантный"
   }
 ]
 
