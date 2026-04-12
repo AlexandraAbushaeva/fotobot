@@ -34,6 +34,10 @@ const galleryImages = [
   },
   {
     src: "/images/photo6.jpg",
+    style: "Природа"
+  },
+  {
+    src: "/images/photo7.jpg",
     style: "street style"
   }
 ]
